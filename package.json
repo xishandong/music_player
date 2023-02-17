@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "jsdom": "^21.1.0"
+  }
+}
