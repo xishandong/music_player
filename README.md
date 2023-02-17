@@ -32,4 +32,16 @@
 # Run
 
 ***
+![image](https://user-images.githubusercontent.com/100206449/219686284-d8dbe446-59f1-4cc8-bdca-d961c3c23f91.png)
+![image](https://user-images.githubusercontent.com/100206449/219686324-61f80988-7175-48cd-ba56-6e03c781e342.png)
+![image](https://user-images.githubusercontent.com/100206449/219686382-8061ec40-f4c3-4a7f-9f69-f91439c2b433.png)
+</br>演示播放付费购买专辑歌曲</br>
+![image](https://user-images.githubusercontent.com/100206449/219686598-fbeace3c-d7cc-4caa-aedf-2ca5c5c5bd95.png)
 
+# 注意
+
+***
+网易云歌曲因为音频头增加了一段cover，所以无法通过pygame播放，处理方法使用moviepy，下载的时候下载成MP4格式
+</br>然后转化为MP3播放。
+</br>如果没有再Wangyi.py中增加vip账户cookie，但是这首歌有mv也可以得到MP3音频
+</br>由于使用了爬虫，请大家遵守网络安全，合法使用
