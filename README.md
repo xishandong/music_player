@@ -11,6 +11,7 @@
     需要nodejs环境，来调用js代码，网易云的资源需要逆向获取
     npm install crypto
     npm install jsdom
+    pip install requests
     pip install moviepy
     pip install eyed3
     pip indtsll tkinter
