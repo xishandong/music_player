@@ -13,6 +13,8 @@
     npm install jsdom
     pip install moviepy
     pip install eyed3
+    pip indtsll tkinter
+    pip indtsll pygame
     现在安装包已经安装好crypto和jsdom环境，只需要在电脑上安装有nodejs即可
 
 # Useage
