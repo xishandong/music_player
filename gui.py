@@ -286,6 +286,7 @@ class SetUI(object):
             try:
                 kw.download(self.song_num)
                 mes_box.showinfo("成功", f'{self.song_name}下载成功')
+                self.status = 1
             except:
                 mes_box.showerror("错误", "无法下载歌曲")
         elif self.ui_var.get() == 2:
